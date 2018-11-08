@@ -260,7 +260,7 @@ int main(int argc, char *argv[])
   
   if(oflag == 0)
   {
-    //puts("missing output_file");
+    //puts("missing output_file");fix
     return 1;
   }
   if(sflag)
